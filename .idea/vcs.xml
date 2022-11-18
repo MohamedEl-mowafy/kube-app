@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git@github.com:MohamedEl-mowafy/kube-app.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kube-app" vcs="Git" />
   </component>
 </project>
